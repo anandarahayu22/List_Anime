@@ -17,19 +17,19 @@ class AnimeList extends StatelessWidget {
     Anime('assets/anime1.jpeg', 'Attack on Titan', 'Action, Drama, Fantasy',
         'Attack on Titan atau Shingeki no Kyojin menceritakan tentang Eren Jaeger dan teman-temannya yang terkurung di balik tembok raksasa. Selama lebih dari seratus tahun, manusia hidup damai di dalam tembok yang terdiri tiga tembok besar, yaitu Tembok Maria, Rose, dan Sheena.'),
     Anime('assets/anime2.jpeg', 'One Piece', 'Action, Adventure, Comedy',
-        'One Piece merupakan karya fiksi Eiichiro Oda yang bercerita tentang seorang remaja (Luffy) yang ingin mewujudkan cita-citanya untuk mengarungi lautan dan menjadi seorang raja bajak laut.'),
+        'One Piece merupakan karya fiksi Eiichiro Oda yang menceritakan tentang seorang remaja (Luffy) yang ingin mewujudkan cita-citanya untuk mengarungi lautan dan menjadi seorang raja bajak laut.'),
     Anime('assets/anime3.jpeg', 'Naruto', 'Action, Adventure, Fantasy',
         'Naruto bercerita seputar kehidupan tokoh utamanya, Naruto Uzumaki, seorang ninja yang hiperaktif, periang, dan ambisius yang ingin mewujudkan keinginannya untuk mendapatkan gelar Hokage, atau juga disebut pemimpin dan ninja terkuat di desanya.'),
     Anime(
         'assets/anime4.jpeg',
         'Dragon Ball Z',
         'Action, Adventure, Martial Arts',
-        'Dragon Ball bercerita tentang seorang bocah bernama Goku yang hidup di tengah gunung sendirian. Dia lalu bertemu dengan Bulma, seorang gadis muda genius, yang berusaha mengumpulkan 7 bola ajaib yang katanya bisa mengabulkan semua keinginan. Bola-bola tersebut dinamakan Dragon Ball.'),
+        'Dragon Ball menceritakan tentang seorang bocah bernama Goku yang hidup di tengah gunung sendirian. Dia lalu bertemu dengan Bulma, seorang gadis muda genius, yang berusaha mengumpulkan 7 bola ajaib yang katanya bisa mengabulkan semua keinginan. Bola-bola tersebut dinamakan Dragon Ball.'),
     Anime(
         'assets/anime5.jpeg',
         'Death Note',
         'Mystery, Psychological, Thriller',
-        'Death Note bercerita tentang Light Yagami, seorang remaja jenius yang menemukan buku catatan misterius yang disebut "Death Note", yang dimiliki oleh shinigami (dewa kematian) bernama Ryuk, dan memberikan penggunanya kemampuan supranatural untuk membunuh siapapun ketika menulis namanya di buku tersebut.'),
+        'Death Note menceritakan tentang Light Yagami, seorang remaja jenius yang menemukan buku catatan misterius yang disebut "Death Note", yang dimiliki oleh shinigami (dewa kematian) bernama Ryuk, dan memberikan penggunanya kemampuan supranatural untuk membunuh siapapun ketika menulis namanya di buku tersebut.'),
     Anime('assets/anime6.jpeg', 'Hunter x Hunter', 'Action, Adventure, Fantasy',
         'Hunter X Hunter merupakan anime yang bergenre petualangan. Berlatar cerita dunia fantasi, Hunter X Hunter sukses memikat hati para penggemar serial anime. Hunter X Hunter menceritakan kisah petuangan sekelompok anak yang memiliki impian untuk menjadi hunter andal dengan mengikuti proses seleksi asosiasi hunter.'),
     Anime(
