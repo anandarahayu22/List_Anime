@@ -39,7 +39,7 @@ class _DetailPageState extends State<DetailPage> {
         ),
         centerTitle: true,
         foregroundColor: Colors.white,
-        backgroundColor: Colors.black,
+        backgroundColor: Colors.blue,
       ),
       body: Padding(
         padding: const EdgeInsets.all(20.0),
